@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "title": "The Rise of AI in Sports Performance Analysis",
+        "content": "Artificial intelligence is transforming the world of sports, offering athletes and teams the ability to enhance performance through data-driven insights. From analyzing player movements to predicting game outcomes, AI has become a crucial tool in professional sports. As this technology evolves, it allows coaches and analysts to dive deeper into metrics that can determine success or failure on the field.",
+        "author": "Alex Smith",
+        "published": true,
+        "category": 1,
+        "date":"2024-01-15"
+    },
+    {
+        "id": 2,
+        "title": "How Data Analytics is Changing the Game in Football",
+        "content": "Football teams around the world are increasingly relying on data analytics to gain a competitive edge. By studying game statistics and player performance metrics, teams can make better decisions regarding strategies, player trades, and even in-game tactics. Data has become an essential part of modern football, allowing for precise game planning and better resource management.",
+        "author": "Jamie Johnson",
+        "published": true,
+        "category": 2,
+        "date":"2024-02-15"
+    },
+    {
+        "id": 4,
+        "title": "The Future of Wearable Tech in Sports Training",
+        "content": "Wearable technology is becoming a game-changer in sports training, enabling real-time monitoring of athlete performance. From tracking heart rates to measuring movement patterns, these devices provide invaluable data that helps optimize training routines and prevent injuries. As wearable tech evolves, its integration with AI is set to further revolutionize sports performance.",
+        "author": "Sophia Carter",
+        "published": true,
+        "category": 3,
+        "date": "2024-03-01"
+    },
+    {
+        "id": 5,
+        "title": "AI-Driven Scouting: The New Era of Talent Identification",
+        "content": "Artificial intelligence is transforming the way sports teams identify and recruit talent. By analyzing vast datasets on player performance, AI tools are helping scouts make more informed decisions. This approach not only saves time but also ensures that potential stars are identified early, reshaping the future of talent acquisition in sports.",
+        "author": "Liam Wilson",
+        "published": false,
+        "category": 1,
+        "date": "2024-04-10"
+    },
+    {
+        "id": 6,
+        "title": "The Role of Big Data in Sports Injury Prevention",
+        "content": "Big data analytics is playing a critical role in preventing injuries in sports. By analyzing trends and patterns in athlete performance and health data, teams can predict and mitigate potential injury risks. This proactive approach is transforming sports medicine and keeping athletes on the field longer and healthier.",
+        "author": "Emily Roberts",
+        "published": true,
+        "category": 2,
+        "date": "2024-05-05"
+    },
+    {
+        "id": 7,
+        "title": "Virtual Reality: A New Frontier in Sports Training",
+        "content": "Virtual reality (VR) is redefining sports training by creating immersive environments where athletes can practice and perfect their skills. From simulating game scenarios to providing instant feedback on performance, VR is becoming an essential tool in modern sports coaching, offering a competitive edge to teams and individuals alike.",
+        "author": "Daniel Thompson",
+        "published": false,
+        "category": 3,
+        "date": "2024-06-20"
+    }
+
+    
+  ]
+  
